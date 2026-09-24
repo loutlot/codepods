@@ -1,4 +1,4 @@
-# Codepods
+# Codepods (An AI Slop for AI Sloppers)
 
 [日本語](README.ja.md) · English
 
